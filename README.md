@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Rocketshoes" src="./.github/assets/logo.svg" width="300px" style="margin: 50px 0 70px" />
+    <img alt="Rocketshoes" src="./.github/assets/logo.svg" width="280px" />
 </h1>
 
 <h3 align="center">
