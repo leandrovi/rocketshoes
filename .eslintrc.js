@@ -25,6 +25,7 @@ module.exports = {
     'react/static-poperty-placement': [0, 'static public field'],
     'no-param-reassign': 'off',
     'no-console': ['error', { allow: ['tron'] }],
+    'jsx-a11y/control-has-associated-label': 0,
 
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
