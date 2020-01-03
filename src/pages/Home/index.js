@@ -25,11 +25,11 @@ class Home extends Component {
     this.setState({ products: data });
   }
 
-  handleAddProcuct = product => {
+  handleAddProcuct = id => {
     // dispatch is accessible only when connected to redux
-    const { addToCart } = this.props;
+    const { addToCartRequest } = this.props;
 
-    addToCart(product);
+    addToCartRequest(id);
   };
 
   render() {
@@ -46,7 +46,7 @@ class Home extends Component {
 
             <button
               type="button"
-              onClick={() => this.handleAddProcuct(product)}
+              onClick={() => this.handleAddProcuct(product.id)}
             >
               <div>
                 <MdAddShoppingCart size={16} color="#FFF" />{' '}
