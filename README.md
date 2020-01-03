@@ -41,8 +41,6 @@ O projeto foi desenvolvido ao longo do bootcamp da [Rocketsheat](https://github.
 
 O resultado final pode ser visto [nesse link](https://leandrovi-rocketshoes.netlify.com).
 
-Dica: para pesquisar um repositório, basta procurar por "dono-do-repositorio/repositorio".
-
 ## :computer: Ambiente de Dev
 
 Para executar a aplicação em um ambiente de desenvolvimento:
