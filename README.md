@@ -1,22 +1,23 @@
 <h1 align="center">
-    <img alt="Rocketshoes" src="./.github/assets/logo.svg" width="150px" />
+    <img alt="Rocketshoes" src="./.github/assets/logo.svg" width="300px" style="margin: 50px 0 70px" />
 </h1>
 
 <h3 align="center">
-  Rocketshoes | Front-end de um carrinho de compras
+  Rocketshoes | E-commerce de Calçados
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandrovi/rocketshoes?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandrovi/rocketshoes?color=%237159c1">
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%237159c1">
 
-  <a href="https://github.com/leandrovi/rocketshoes/stargazers">
+  <a href="https://github.com/leandrovi/rocketshoes/stargazers" target="_blank">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/leandrovi/rocketshoes?style=social">
   </a>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1059a4c7-7eda-41ef-bc79-e25d30c3051e/deploy-status)](https://app.netlify.com/sites/leandrovi-rocketshoes/deploys)
-
+  <a href="https://app.netlify.com/sites/leandrovi-rocketshoes/deploys" target="_blank">
+    <img alt="Netlify" src="https://api.netlify.com/api/v1/badges/1059a4c7-7eda-41ef-bc79-e25d30c3051e/deploy-status">
+  </a>
 </p>
 
 <p align="center">
@@ -30,9 +31,9 @@
 
 Aplicação front-end que simula um e-commerce de calçados e um carrinho de compras.
 
-O objetivo era construir uma aplicação que compartilhasse estados entre diversos componentes, utilizando a _arquitetura flux_ com _Redux_.
+O objetivo era construir uma aplicação que compartilhasse estados entre diversos componentes, utilizando a **arquitetura flux** com **Redux**.
 
-Além disso, todo o código foi refatorado para utilizar _React Hooks_ :heart:
+Além disso, todo o código foi refatorado para utilizar **React Hooks** :heart:
 
 O projeto foi desenvolvido ao longo do bootcamp da [Rocketsheat](https://github.com/Rocketseat).
 
